@@ -6,7 +6,7 @@ Code to reproduce the statistics and graphics in the paper "School students' con
 
 ### Clone the repo
 
-```git clone https://github.com/Eedi/diagnostic-questions-and-confidence```
+```git clone https://github.com/Eedi/diagnostic-questions-and-student-confidence```
 
 ## Conda Environment
 
