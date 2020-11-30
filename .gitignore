@@ -1,0 +1,8 @@
+# IPython notebook
+.ipynb_checkpoints
+
+# Cache
+__pycache__
+
+# Windows
+desktop.ini

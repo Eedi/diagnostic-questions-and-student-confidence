@@ -1,0 +1,9 @@
+﻿Platform,Period,QuizAAnswersCount,CorrectQuizAAnswersCount,IncorrectQuizAAnswersCount,ReviewedQuizAAnswersCount,QuizBAnswersCount,CorrectQuizBAnswersCount,IncorrectQuizAQuizBAnswersCount,IncorrectQuizACorrectQuizBAnswersCount,QuizACorrectionsCount,CorrectQuizACorrectionsCount
+Eedi Mobile (No Confidence),Corrections,10095,4945,5150,1116,766,404,377,149,3146,1258
+Eedi Web (No Confidence),Corrections,79209,39382,39827,8748,9412,5114,4340,1686,29493,11611
+Any (No Confidence),Corrections,89540,44446,45094,9887,10207,5534,4730,1840,32726,12902
+Any (Confidence),Corrections,26229,15014,11215,3498,3173,1878,1282,504,7712,3310
+Eedi Mobile (No Confidence),All,191947,95180,96767,27609,109167,58913,52884,20856,4090,1579
+Eedi Web (No Confidence),All,727349,371937,355412,101891,358343,194089,168691,66031,32321,12707
+Any (No Confidence),All,921525,468229,453296,129829,468647,253615,222127,87103,36508,14322
+Any (Confidence),All,288655,172191,116464,54612,160846,101059,62197,27385,8306,3573
