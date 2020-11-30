@@ -1,4 +1,4 @@
-# Diagnostic Questions and Assessing Student Confidence
+# Diagnostic Questions and Student Confidence
 
 Code to reproduce the statistics and graphics in the paper "School students' confidence when answering diagnostic questions online".
 
